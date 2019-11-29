@@ -1,0 +1,105 @@
+
+
+
+#discoverapro {
+	padding: 0px!important;
+}
+
+/*-------banar part start-----*/
+.my-custom-banar-part{
+	background:url(../image/icrowdme-PSD---cssauthor.png) no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.my-custom-banar-part h2{
+	color: black;
+	font-size: 40pt;
+}
+.my-custom-banar-part p{
+	color: black;
+	font-size: 28pt;
+	padding:40px 0px;
+}
+.my-custom-btn{
+	color: #fff;
+	padding: 10px 20px;
+	background-color: green;
+	border:none;
+	margin-bottom: 50px;
+}
+/*----------how it works part-----*/
+.Custom-howitworks{
+	text-align: center;
+}
+.Custom-howitworks img{
+	display: block;
+	margin: 0 auto;
+}
+.Custom-howitworks h2{
+	font-size: 40pt;
+	padding: 40px 0px;
+}
+.Custom-howitworks p{
+	font-size: 18pt;
+	color: gray;
+	margin-bottom: 50px;
+}
+/*---------discover part start---------*/
+.my-custom-discover-part{
+
+}
+.my-custom-discover-part img{
+	display: block;
+	float: left;
+	padding: 20px;
+	}
+.my-custom-discover-part h1{
+
+}
+.my-custom-discover-part p{
+}
+.my-custom-btn2{
+	color: #fff;
+	padding: 10px 20px;
+	background-color: blue;
+	border:none;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+.my-custom-btn2 .sec{
+	color: #fff;
+	padding: 10px 20px;
+	background-color: green;
+	border:none;
+	margin-bottom: 50px;
+	margin-top: 20px;
+
+}
+.dis-left-part{
+	background-color: #0080003b;
+}
+.dis-right-part{
+	background-color: #ff000063;
+
+}
+/*-----blog ------*/
+.blog-custom-main{
+
+}
+.blog-custom-main h2{
+	
+}
+.blog-custom-main p{
+	
+}
+.blog-btn{
+	color: black;
+	padding: 10px 20px;
+	background-color: white;
+	border:2px solid black;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+.custom-findout{
+	padding: 0px!important;
+}
